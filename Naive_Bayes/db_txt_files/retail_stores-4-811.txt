@@ -1,0 +1,1 @@
+It's kind of like another Express,but it's a good store. If i can't find something in Express then i can always look in The limited.

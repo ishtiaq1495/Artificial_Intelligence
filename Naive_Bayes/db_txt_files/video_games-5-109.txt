@@ -1,0 +1,1 @@
+More of a polished engine than the original Quake engine, especially with 3d acceleration. The single player is only good for training and learning the maps. Multiplayer is where Q2 has always shined.

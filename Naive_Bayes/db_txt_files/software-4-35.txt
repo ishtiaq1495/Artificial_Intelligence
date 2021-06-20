@@ -1,0 +1,1 @@
+Works well, but misses some things that others (like SpyBot) will pick up. They work well in conjunction with one another.

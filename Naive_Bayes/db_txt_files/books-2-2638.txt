@@ -1,0 +1,1 @@
+Maybe I'm being unfair, since I read an earlier edition of this book, but unless it's improved radically, it's poorly organized and hard to understand. Earlier version felt like it started in the middle; I'm familiar with a variety of server-side scripting environments, but it took me a while just to figure out what ASP i was. /i 

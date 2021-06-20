@@ -1,0 +1,1 @@
+Move the little ship thingy back and forth and try to knock out little space invaders before they get you. Had to be careful or you would take out your own shields.

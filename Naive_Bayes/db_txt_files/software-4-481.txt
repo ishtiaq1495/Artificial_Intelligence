@@ -1,0 +1,1 @@
+Excel is a godsend! But you know what bugs me... in the more recent version, if you center something across cells horizontally, it become impossible to resize or delete one of those columns without messing with the whole thing. Go back to the old system please!

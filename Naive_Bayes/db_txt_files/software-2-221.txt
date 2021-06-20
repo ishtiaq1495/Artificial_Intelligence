@@ -1,0 +1,1 @@
+Netscape has been poorly implementing DOM, JavaScript, CSS, and even HTML for a long time now. Its incompatibility with W3 standards causes tonnes of frustration for web developpers. Finally, its implementation of tables is awful. All this in addition to being bulky and overloaded with 'features'. IE and Firefox blow it out of the water

@@ -1,0 +1,1 @@
+This browser has now evolved into FireFox 0.8. It is a great compact browser with many handy features built into the interface (eg. pop-up stopper) it can also be personalized with a skin you can download directly from mozilla.

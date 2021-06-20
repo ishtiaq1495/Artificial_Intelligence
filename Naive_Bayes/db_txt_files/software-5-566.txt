@@ -1,0 +1,1 @@
+Holding the top ten positions for Price/Performance (yes, all ten) with TPC.ORG just proves what I have been preaching all along: SQL Server is a contender. IT makes an excellent back end server for web sites. I don't like the XML directive crap they are including in the new release, but the product still rocks.

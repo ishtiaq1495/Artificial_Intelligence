@@ -1,0 +1,1 @@
+Rating 4,6 ::great web animation/website producing software. Lots of features for animation.The only gripe is that it can be RAM/CPU cycle hungry. I recommend running win2000/XP (or on linux with most of the vutual machine/win-Lin environments aval.) with more than 128MB RAM/ 750+MHZ PIII/AMD duron/atlon Processor and 16MB Video memory for graphic intensive websites.

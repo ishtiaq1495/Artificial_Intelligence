@@ -1,0 +1,1 @@
+Real-time adventure game with a gripping plot. Has different endings which change depending on which decisions you make.

@@ -1,0 +1,1 @@
+Can make your own player in the team play one on one from each team. Play the whole team to try to win the finals.

@@ -1,0 +1,1 @@
+This is a classic family game to play. You have to try to solve a murder mystrey by guessing which player did it, in what room, and with what tool. It is a challanging game.

@@ -1,0 +1,1 @@
+Beware of packaging tricks. Not all Symantec products are compatible with each other anymore. Many of us IT guys are leaving Symantec because of major lockups with different versions. 

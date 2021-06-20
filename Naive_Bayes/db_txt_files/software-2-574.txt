@@ -1,0 +1,1 @@
+Front Page adds too much extraneous code into pages. They're so hard to edit once you've put them together.

@@ -1,0 +1,1 @@
+Scrabble is a wonderful game, but can be frustrating if your letters are A,E,U,O,A,E,I or L,K,B,M,R,C,T (a combination of those two hands would be fine though).

@@ -1,0 +1,1 @@
+This is the fastest browser for the Mac. It's MUCH faster than Safari, I think because it doesn't store as much info. I keep both Camino and Safari handy - Safari for specialized sites that require password info that has been stored, and Camino for everything else. Both are much more secure than IE.

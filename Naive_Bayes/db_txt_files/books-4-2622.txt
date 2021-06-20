@@ -1,0 +1,1 @@
+Well written, good for those moving from a strict formatting background (html) and beginning to study scripting languages. More better examples than the O'Reilly book, and more oriented to study than reference.

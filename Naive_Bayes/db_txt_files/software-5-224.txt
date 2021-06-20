@@ -1,0 +1,1 @@
+A great browser in a client-server office network environment. Great feature set without all the unnecessary overhead

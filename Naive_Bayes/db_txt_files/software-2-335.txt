@@ -1,0 +1,1 @@
+Skip Home Edition all together, not worth time to review. Pro is fairly stable, but way too bloated with useless and vulnerable goodies. Trim it down if you use it, and be damed sure you firewall yourself very carefully.
